@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+18_NOTES.md 
+module coding files/
+
 # C extensions
 *.so
 
